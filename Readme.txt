@@ -1,4 +1,6 @@
-﻿
+##ASP.net Core 2.0 Authentication Service
+
+
 # Create the Database name Auth
 (add the database connection address in the appSettings.Json)
 
