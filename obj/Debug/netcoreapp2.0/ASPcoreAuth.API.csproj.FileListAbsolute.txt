@@ -1,0 +1,11 @@
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.csprojAssemblyReference.cache
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.csproj.CoreCompileInputs.cache
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.AssemblyInfoInputs.cache
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.AssemblyInfo.cs
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\bin\Debug\netcoreapp2.0\ASPcoreAuth.API.deps.json
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\bin\Debug\netcoreapp2.0\ASPcoreAuth.API.runtimeconfig.json
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\bin\Debug\netcoreapp2.0\ASPcoreAuth.API.runtimeconfig.dev.json
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\bin\Debug\netcoreapp2.0\ASPcoreAuth.API.dll
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\bin\Debug\netcoreapp2.0\ASPcoreAuth.API.pdb
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.dll
+c:\users\monster\source\repos\ASPcoreAuth.API\ASPcoreAuth.API\obj\Debug\netcoreapp2.0\ASPcoreAuth.API.pdb
